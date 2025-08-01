@@ -9,7 +9,7 @@ This interactive dashboard provides insights into bike sales performance across 
 - Product-wise sales breakdown  
 
 ## 📊 Tools Used
-- Power BI / Tableau *(specify which one you used)*  
+- Tableau 
 - Excel / CSV as data source  
 
 ## 📁 How to Use
